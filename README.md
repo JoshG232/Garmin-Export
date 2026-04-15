@@ -1,6 +1,6 @@
 ## Garmin Data Export Tool
 
-This project automates the process of logging into Garmin Connect and downloading activity files (FIT format) for later processing.
+This project automates the process of logging into Garmin Connect and downloading activity files (FIT format) for later processing. With the issues with garminconnect recently and wanting a personal project to work on I created this simple script.
 
 ### Getting Started
 
