@@ -2,7 +2,7 @@
 
 This project automates the process of logging into Garmin Connect and downloading activity files (FIT format) for later processing.
 
-### 🚀 Getting Started
+### Getting Started
 
 #### 1. Prerequisites
 You need to have Python installed on your system. This project relies on the `playwright` library for browser automation and `python-dotenv` for managing environment variables.
